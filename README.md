@@ -21,7 +21,7 @@ Outlet size & location performance.
 Outlet type performance table (sales, items, ratings, visibility).
 
 ## dashboard screenshot
-<img width="1428" height="809" alt="image" src="https://github.com/user-attachments/assets/1e1c9e6a-ada0-4f91-946a-28bc07a5e8f4" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/1e1c9e6a-ada0-4f91-946a-28bc07a5e8f4" />
 
 
 
@@ -68,7 +68,7 @@ Other supermarket types contribute much less (~$130K each).
 
 Suggests most business comes from Supermarket Type1 outlets.
 
-Trend Over Time
+<h3> Trend Over Time </h3>
 
 Sales show an upward trend with a peak around 2018 ($205K).
 
